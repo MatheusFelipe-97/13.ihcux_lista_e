@@ -1,6 +1,6 @@
-Lista de Exercícios XIII ⚡️
+# Lista de Exercícios XIII ⚡️
 
-1. Lei de Hick-Hyman
+# 1. Lei de Hick-Hyman
 
 O que é:
 Afirma que quanto maior o número de opções disponíveis, mais tempo uma pessoa leva para tomar uma decisão.
